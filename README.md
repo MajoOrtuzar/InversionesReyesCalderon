@@ -1,10 +1,10 @@
-<h1>Desarrollo Pagina Web Para Construcciones Inversiones Reyes Calderon</h1>
+<h1>Desarrollo Pagina Web Para Instalaciones Reyes Calderon</h1>
 <p><b>09.03.2026</b></p>
-# Inversiones Reyes Calderón – Sitio Web Corporativo
+# Instalaciones Reyes Calderón – Sitio Web Corporativo
 
 ## Descripción del proyecto
 
-Este proyecto consiste en el desarrollo de un **sitio web corporativo tipo brochure** para *Inversiones Reyes Calderón*.
+Este proyecto consiste en el desarrollo de un **sitio web corporativo tipo brochure** para *Instalaciones Reyes Calderón*.
 El objetivo es presentar la empresa, sus servicios y canales de contacto mediante una interfaz clara, moderna y adaptable a distintos dispositivos.
 
 El sitio está diseñado siguiendo principios de **UX/UI y desarrollo frontend**, priorizando una estructura simple, navegación clara y una estética basada en una **paleta de grises** para visualizar la jerarquía de los contenidos antes de aplicar la identidad visual final.

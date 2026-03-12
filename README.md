@@ -1,7 +1,8 @@
 <h1>Desarrollo Pagina Web Para Instalaciones Reyes Calderon</h1>
 <p><b>09.03.2026</b></p>
 # Instalaciones Reyes Calderón – Sitio Web Corporativo
-
+<p><b>11.03.2026</b></p>
+# Instalaciones Reyes Calderón – Se añaden paginas y se maqueta la pagina
 ## Descripción del proyecto
 
 Este proyecto consiste en el desarrollo de un **sitio web corporativo tipo brochure** para *Instalaciones Reyes Calderón*.

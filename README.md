@@ -37,14 +37,21 @@ No se utilizan frameworks como Bootstrap para priorizar el aprendizaje y control
 /proyecto
 │
 ├── index.html
-├── nosotros.html
-├── servicios.html
-├── contacto.html
+|
+├── pages
+|   |
+|   |
+|   ├── nosotros.html
+|   ├── servicios.html
+|   ├── contacto.html
+|   
+|
 │
-├── css
+├── assets
 │   └── style.css
+|   └── Script.js
 │
-├── img
+|
 │
 └── README.md
 ```
